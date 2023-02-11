@@ -28,7 +28,7 @@ def git_lessons
       github_path: '/git/intermediate_git/a_deeper_look_at_git.md',
       identifier_uuid: '52b17564-0e1d-4c4f-adfa-acba53bf9126',
     },
-    'Using Git in the Real World' => {
+    'Using Git in the very Real World' => {
       title: 'Using Git in the Real World',
       description: "We've just scratched the surface, so here's what to be aware of as you start developing more and more using Git.",
       is_project: false,
